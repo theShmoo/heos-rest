@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "heos-api": "^4.0.0"
+  },
+  "name": "heos-rest",
+  "version": "1.0.0",
+  "description": "A rest api for a HEOS server",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theShmoo/heos-rest.git"
+  },
+  "keywords": [
+    "heos",
+    "rest"
+  ],
+  "author": "David Pfahler",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/theShmoo/heos-rest/issues"
+  },
+  "homepage": "https://github.com/theShmoo/heos-rest#readme"
+}
